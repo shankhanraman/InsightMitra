@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+pymongo
+pinecone-client
+openai
+pandas
+numpy
+reportlab
+authlib
